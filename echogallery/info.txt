@@ -1,1 +1,0 @@
-this is the static images folder for any images created for the Echogallery Project
